@@ -1,0 +1,8 @@
+1)Insert query only adds password to database
+2)If the user clicks on edit this then the values of the title and content should be posted to next script
+and from there he should be edit the content andon clicking of the submit button that changes will be reflected into the database and the user should see the updated values from the database into the texetbox value attribute
+
+view content $data variable issue
+
+SESSION and Logout if he/she is coming whitout login let's say he directly types scrip.php in the
+address bar then she will get redirected to login first if she is not logged into his account.
